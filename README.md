@@ -9,7 +9,7 @@ The script is analyzing the record and calculating:
 * The total number of months
 * The net total amount of Profit/Losses over the entire period, and the average of those changes
 * The greatest increase and deacrease in profit for the entire period, showing both the date and the amount
-\
+\\
 The script is printing both on the screen and on a [text file](./PyBank/Output/financial_analysis.txt) the results of the financial analysis.
 
 
