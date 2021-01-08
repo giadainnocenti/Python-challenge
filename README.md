@@ -1,5 +1,5 @@
 # Python-challenge
-Python scripts for analyzing financial records (**PyBank**) and poll data (**PyPoll**). \n
+Python scripts for analyzing financial records (**PyBank**) and poll data (**PyPoll**). /
 The scripts can be found in the respective folders an it is relying only on the following python modules: **_os_** and **_csv_**
 
 ## PyBank
