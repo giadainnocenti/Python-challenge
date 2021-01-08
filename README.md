@@ -3,7 +3,7 @@ Python scripts for analyzing financial records (**PyBank**) and poll data (**PyP
 The scripts can be found in the respective folders. 
 
 ## PyBank
-The python script delevoped found in PyBank ([main.py](./PyBank/main.py)) is analyzing fairly simple financial records ([Pybank/Resources/budget_data.csv](Pybank/Resources/budget_data.csv)) of an hypothetical company. \
+The python script delevoped is found in the folder PyBank ([main.py](./PyBank/main.py)) is analyzing fairly simple financial records ([Pybank/Resources/budget_data.csv](Pybank/Resources/budget_data.csv)) of an hypothetical company. \
 The python script is able to read the financial record dataset, which is composed by only two columns: *Date*, and *Profit/Losses*. The profit losses are reported for each month. /
 The script is analyzing the record and calculating:
 * The total number of months
@@ -11,8 +11,16 @@ The script is analyzing the record and calculating:
 * The greatest increase and deacrease in profit for the entire period, showing both the date and the amount
 /
 The script is printing both on the screen and on a [text file](./PyBank/Output/financial_analysis.txt) the results of the financial analysis.
-<img src="./Images/revenue-per-lead.png" width="300" height="100" />
+<img src="./Images/revenue-per-lead.png" width="400" height="200" />
 
 
 ## PyPoll
-<img src="./Images/Vote_counting.png" width="300" height="100" />
+The python script developed is in the folder PyPoll ([main.py](./PyPoll/main.py)). The aim of the code is to modernize the vote counting process of a small, rural town. /
+The set of Poll data is in a CSV file called [election_data.csv](Pypoll/Resources/Election_data.csv). The dataset is composed of three columns: *Voter ID*, *County* and *Candidate*./
+
+
+<img src="./Images/Vote_counting.png" width="400" height="200" />
+
+## Copyright
+
+Trilogy Education Services © 2019. All Rights Reserved.
