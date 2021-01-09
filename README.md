@@ -19,7 +19,7 @@ The python script developed is in the folder PyPoll ([main.py](./PyPoll/main.py)
 The set of Poll data is in a CSV file called [election_data.csv](Pypoll/Resources/Election_data.csv). The dataset is composed of three columns: *Voter ID*, *County* and *Candidate*.\
 The script is reading the data and printing both on the screen and in a [text file](Pypoll/Output/Election_results.txt):
 * The total number of votes received
-* The list of candidates along with the percentage of votes and the total number of votes.
+* The name of each candidate along with the percentage of votes and the total number of votes received.
 * The name of the winner.
 
 
