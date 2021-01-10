@@ -22,6 +22,10 @@ The script is reading the data and printing both on the screen and in a [text fi
 * The name of each candidate along with the percentage of votes and the total number of votes received.
 * The name of the winner.
 
+## Copyright
+
+Trilogy Education Services © 2019. All Rights Reserved.
+
 
 
 
