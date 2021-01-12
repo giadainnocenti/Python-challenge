@@ -1,6 +1,6 @@
 # Python-challenge
 Python scripts for analyzing financial records (**PyBank**) and poll data (**PyPoll**). \
-The scripts can be found in the respective folders an it is relying only on the following python modules: **_os_** and **_csv_**.
+The scripts can be found in the respective folders an they rely on the following python modules: **_os_** and **_csv_**.
 
 ## PyBank
 The python script delevoped is found in the folder PyBank ([main.py](./PyBank/main.py)) is analyzing fairly simple financial records ([Pybank/Resources/budget_data.csv](Pybank/Resources/budget_data.csv)) of an hypothetical company. \
